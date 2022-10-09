@@ -1,4 +1,0 @@
-Int Main(){ 
-    (*codigo*)
-    out_string(5 + 3);
-}
