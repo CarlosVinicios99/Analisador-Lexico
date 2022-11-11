@@ -1,6 +1,6 @@
-# Analisador Lexico
+# Analisador Lexico-Sintatico-Semantico
 
 <p>
-  Etapa 1 do nosso trabalho de compiladores, nesta etapa fazemos a leitura do de um código com elementos da linguagem COOL e realizamos o processo de Tokenização.
+  Etapas 1, 2 e 3 do nosso trabalho de compiladores (criar um compilador).
 </p>
 
